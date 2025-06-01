@@ -1,0 +1,10 @@
+pypdf
+transformers
+torch
+ollama
+sentence-transformers
+langchain
+subprocess
+streamlit
+pdfplumber
+
