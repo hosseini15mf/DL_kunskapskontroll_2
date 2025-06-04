@@ -2,9 +2,8 @@ pypdf
 transformers
 torch
 ollama
-sentence-transformers
+sentence-transformers==4.1.0
 langchain
-subprocess
 streamlit
 pdfplumber
 
